@@ -1,0 +1,13 @@
+D:\work\ProjetoPortfolio\ImplementandoUmaAplicacaoNaAws\ConsoleAppLerAPIObjeto\obj\Debug\ConsoleAppLerAPIObjeto.csproj.AssemblyReference.cache
+D:\work\ProjetoPortfolio\ImplementandoUmaAplicacaoNaAws\ConsoleAppLerAPIObjeto\obj\Debug\ConsoleAppLerAPIObjeto.csproj.SuggestedBindingRedirects.cache
+D:\work\ProjetoPortfolio\ImplementandoUmaAplicacaoNaAws\ConsoleAppLerAPIObjeto\obj\Debug\ConsoleAppLerAPIObjeto.csproj.CoreCompileInputs.cache
+D:\work\ProjetoPortfolio\ImplementandoUmaAplicacaoNaAws\ConsoleAppLerAPIObjeto\bin\Debug\ConsoleAppLerAPIObjeto.exe.config
+D:\work\ProjetoPortfolio\ImplementandoUmaAplicacaoNaAws\ConsoleAppLerAPIObjeto\bin\Debug\ConsoleAppLerAPIObjeto.exe
+D:\work\ProjetoPortfolio\ImplementandoUmaAplicacaoNaAws\ConsoleAppLerAPIObjeto\bin\Debug\ConsoleAppLerAPIObjeto.pdb
+D:\work\ProjetoPortfolio\ImplementandoUmaAplicacaoNaAws\ConsoleAppLerAPIObjeto\bin\Debug\Newtonsoft.Json.dll
+D:\work\ProjetoPortfolio\ImplementandoUmaAplicacaoNaAws\ConsoleAppLerAPIObjeto\bin\Debug\System.Net.Http.Formatting.dll
+D:\work\ProjetoPortfolio\ImplementandoUmaAplicacaoNaAws\ConsoleAppLerAPIObjeto\bin\Debug\Newtonsoft.Json.xml
+D:\work\ProjetoPortfolio\ImplementandoUmaAplicacaoNaAws\ConsoleAppLerAPIObjeto\bin\Debug\System.Net.Http.Formatting.xml
+D:\work\ProjetoPortfolio\ImplementandoUmaAplicacaoNaAws\ConsoleAppLerAPIObjeto\obj\Debug\ConsoleAppLerAPIObjeto.csproj.CopyComplete
+D:\work\ProjetoPortfolio\ImplementandoUmaAplicacaoNaAws\ConsoleAppLerAPIObjeto\obj\Debug\ConsoleAppLerAPIObjeto.exe
+D:\work\ProjetoPortfolio\ImplementandoUmaAplicacaoNaAws\ConsoleAppLerAPIObjeto\obj\Debug\ConsoleAppLerAPIObjeto.pdb

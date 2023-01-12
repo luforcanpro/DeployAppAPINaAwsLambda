@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "yYNIO9G2lL8h/2Mv+QnB1TF0aAfSwRXVD2p0Q6syOho=",
+  "Source": "AWSServerlessWebAPI",
+  "BasePath": "_content/AWSServerlessWebAPI",
+  "Mode": "Default",
+  "ManifestType": "Publish",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
