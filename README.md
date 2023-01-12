@@ -9,12 +9,6 @@
   <img src="http://img.shields.io/static/v1?label=STATUS&message=CONCLUIDO&color=GREEN&style=for-the-badge"/>
 </p>
 
-### Tópicos 
-
-:small_blue_diamond: [Descrição do projeto](#descrição-do-projeto)
-:small_blue_diamond: [Layout ou Deploy da Aplicação](#layout-ou-Deploy-da-Aplicação)
-:small_blue_diamond: [Descrição do projeto](#linguagens-dependencias-e-libs-utilizada)
-
 ## Descrição do projeto 
 
 <p align="justify">
@@ -28,7 +22,9 @@
 ## Linguagens, dependencias e libs utilizadas :books:
 
 - Visual Studio 2022
-- AWS Toolkit para o Visual Studio (mostrarei como instalar)
+- Asp.Net Core
+- C#
+- AWS Toolkit para o Visual Studio.
 - Conta na AWS
 - Postman
 
